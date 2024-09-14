@@ -1,6 +1,6 @@
 # Travelogue
 
-Keep track of your travel locations around the world by using pins!
+Keep track of your travel locations all around the world by using pins!
 
 
 Technologies used: MongoDB, Express, React, Node
